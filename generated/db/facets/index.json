@@ -1,0 +1,1 @@
+{"version":1,"shards":{"subsystems":"facets/subsystems.json","officialCategories":"facets/official-categories.json","objectFamilies":"facets/object-families.json","objectKinds":"facets/object-kinds.json","sourceLayers":"facets/source-layers.json","documentationStatuses":"facets/documentation-statuses.json","categoryHierarchy":"facets/category-hierarchy.json"}}
