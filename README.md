@@ -16,6 +16,6 @@ This GitHub Pages build is a **static browser demo**. Max objects are not execut
 
 The full product is being developed as an executable browser-based Max/MSP-style environment in which supported Max, MSP/DSP, Jitter and related object families can run and interact.
 
-## Public/private boundary
+## Demo build
 
-This repository intentionally contains only the compiled public demo and a sanitised static dataset. The private R&D source, corpus-generation pipeline, binary-analysis and reverse-engineering tooling are not published here.
+This repository contains the compiled GitHub Pages demo and the static dataset required by the browser interface.
